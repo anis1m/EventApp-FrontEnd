@@ -4,6 +4,8 @@ EventApp FrontEnd work is developed by using React.js which is popular frontend 
 
 react.js project is created by a command npm i create-react-app.
 
+react project is started by command npm start.
+
 api requests and responses handled by axios library.
 axios is installed by command npm i axios.
 
